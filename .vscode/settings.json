@@ -5,18 +5,8 @@
             "server": "localhost",
             "port": 5432,
             "driver": "PostgreSQL",
-            "name": "practice",
-            "database": "practice_db",
-            "username": "postgres",
-            "password": ""
-        },
-        {
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 5432,
-            "driver": "PostgreSQL",
-            "name": "todo_app",
-            "database": "todoappl_db",
+            "name": "todo",
+            "database": "newtodo",
             "username": "postgres",
             "password": ""
         }
